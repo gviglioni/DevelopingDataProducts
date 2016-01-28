@@ -40,6 +40,7 @@ It must contained some embedded R code that gets run when slidifying the documen
 Notice to publish your slidify presentation to github or Rpubs, there's the publish command. This link outlines how to do it (it's one line).
 
 http://slidify.org/publish.html
+
 My presentation: http://gviglioni.github.io/Developing-Data-Product/#1
 
 Rstudio presenter has a button to publish directly to Rpubs https://support.rstudio.com/hc/en-us/articles/200714023-Displaying-and-Distributing-Presentations. If you are using Rpubs, put in the link to the presentation into the submission box as a http:// link not a https:// link.
